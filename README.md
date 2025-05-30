@@ -67,9 +67,6 @@ The pre-training pipeline consists of the following steps:
    Train the model to generate a plan ($$MP$$) that matches the linearized plan-graph ($$P'$$).
 
 
-> **Figure 1:** General outline of the pre-training approach for generating linearized computational graphs (see image above).
-
-
 ---
 
 

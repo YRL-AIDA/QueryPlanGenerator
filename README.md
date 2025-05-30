@@ -117,7 +117,7 @@ The pre-training pipeline consists of the following steps:
 ---
 
 
-## Acknowledgements
+## Reference
 Zhong, Victor, Caiming Xiong, and Richard Socher. "Seq2sql: Generating structured queries from natural language using reinforcement learning." arXiv preprint arXiv:1709.00103 (2017).
 
 Lewis, Mike, et al. "Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension." arXiv preprint arXiv:1910.13461 (2019).

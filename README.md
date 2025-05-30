@@ -79,7 +79,7 @@ The pre-training pipeline consists of the following steps:
 
 - **Output:** Linearized query plan (plan-graph)
 
-- **Tokenizer:** Custom tokenizer adapted for SQL and tabular data
+- **Tokenizer:** Standart BART tokenizer
 
 
 ---
